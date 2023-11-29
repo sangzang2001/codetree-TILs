@@ -7,13 +7,14 @@ if a>=b:
     elif c>=a:
         print(c)
     else:
-        pass
+        print(a)
+        
 elif b>=a:
     if a>=c:
         print(b)
     elif c>=b:
         print(c)
     else:
-        pass
+        print(b)
 else:
     print(c)
