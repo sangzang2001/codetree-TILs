@@ -1,6 +1,6 @@
 n=int(input())
-i=1
+i=3
 
 while i<=n:
-    i*=3
+    i+=3
     print(i, end=' ')
