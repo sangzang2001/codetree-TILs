@@ -7,7 +7,5 @@ for i in range(1,101):
         su=su-i
         break
     elif su==n:
-        print(su)
         break
-    
 print(su)
